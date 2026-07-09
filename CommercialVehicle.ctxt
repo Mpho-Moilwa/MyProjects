@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CommercialVehicle
+comment1.params=
+comment1.target=CommercialVehicle()
+comment2.params=typeVehicle\ clientName\ licencePlateNumber\ duration\ loadCapacityTons
+comment2.target=CommercialVehicle(char,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=double\ getLoadCapacityTons()
+comment4.params=
+comment4.target=double\ getDailyInsurance()
+comment5.params=
+comment5.target=double\ calcDailyInsurance()
+comment6.params=
+comment6.target=double\ calcDailyRent()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

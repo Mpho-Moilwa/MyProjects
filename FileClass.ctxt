@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileClass
+comment1.params=
+comment1.target=FileClass()
+comment2.params=
+comment2.target=void\ createSampleFile()
+comment3.params=
+comment3.target=void\ readFromFile()
+comment4.params=
+comment4.target=java.util.ArrayList\ getVehicles()
+comment5.params=
+comment5.target=void\ writeSUVsToFile()
+numComments=6
